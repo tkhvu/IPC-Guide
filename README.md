@@ -1,2 +1,0 @@
-# IPC-Guide
-IPC Guide
